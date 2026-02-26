@@ -14,6 +14,8 @@
 
 - Prints out the final output of the enterd math function as a Double value.
 
+Based on [azartech/Flex-Bison-Calculator](https://github.com/azartech/Flex-Bison-Calculator)
+
 # CFG
 
 The equivalent CFG for the grammer used in this project is as follows :
