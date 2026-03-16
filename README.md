@@ -144,4 +144,4 @@ ln(abs(-4 + sinh(3.2 / tan(2.1)))) + cos(3.1415 / 2)
 ```
 ---
 
-*Originally developed on 11 November 2024.*
+*Originally developed on 11 November 2024*
